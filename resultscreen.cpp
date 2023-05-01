@@ -62,9 +62,9 @@ public:
 		ss << getPackagesCollectedCount();
 		changeMugenText(packageText, ss.str().c_str());
 
-		ss = std::stringstream();
-		ss << (getGameTicksSpent() / 60.0) << " SECONDS";
-		changeMugenText(timeText, ss.str().c_str());
+		std::stringstream ss2;
+		ss2 << (getGameTicksSpent() / 60.0) << " SECONDS";
+		changeMugenText(timeText, ss2.str().c_str());
 
 		auto packages = getPackagesCollectedCount();
 		int rank = 0;

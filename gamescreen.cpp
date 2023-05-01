@@ -145,7 +145,7 @@ public:
 
 		setBlitzCameraHandlerRange(GeoRectangle2D(0, -gGameScreenData.mHeight + 240, gGameScreenData.mWidth, gGameScreenData.mHeight));
 
-		streamMusicFile("music/game.ogg");
+		//streamMusicFile("music/game.ogg");
 	}
 
 	void loadTutorial()
@@ -238,6 +238,8 @@ public:
 
 	void addEnemy(Vector2D pos, int tileY)
 	{
+		if (mEnemies.size() >= 3) return;
+
 		auto listId = mEnemies.size();
 		auto id = mEnemies.size();
 		auto& enemy = mEnemies[id];
