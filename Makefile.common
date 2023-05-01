@@ -1,0 +1,2 @@
+OBJS = main.o \
+collision.o gameoverscreen.o gamescreen.o player.o resultscreen.o shoothandler.o storyscreen.o titlescreen.o

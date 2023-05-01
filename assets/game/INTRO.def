@@ -1,0 +1,188 @@
+[header]
+Sprites = game/INTRO.sff
+
+[storystart]
+
+[image 1]
+Group = 1
+Item = 0
+
+
+[text 1]
+Speaker = ""
+Text = "When you think about who controls the world, you might be thinking about politicians, bankers or minecraft youtubers."
+
+
+[image 1]
+Group = 1
+Item = 1
+
+[text 1]
+Speaker = ""
+Text = "Three months ago, I was the same as you, blind to the truth of this world."
+
+[image 1]
+Group = 1
+Item = 2
+
+[text 1]
+Speaker = ""
+Text = "You might have seen these uniformed people come to your house before. I never really noticed them, they always seemed to avoid me for some reason."
+
+[image 1]
+Group = 1
+Item = 3
+
+[text 1]
+Speaker = ""
+Text = "Turns out if you shake them hard enough and point a machine gun in their face they start yelling "I'm the mailman! I'm the mailman!"."
+
+[text 1]
+Speaker = ""
+Text = "I was perplexed. I had never heard of this code name before. "
+
+
+[image 1]
+Group = 1
+Item = 4
+
+[text 1]
+Speaker = ""
+Text = "Not even during my time in the green berets before they discharged me for being too cool."
+
+[image 1]
+Group = 1
+Item = 5
+
+[text 1]
+Speaker = ""
+Text = "This man, as it turns out, was named "Mailman Steve"."
+
+[image 1]
+Group = 1
+Item = 6
+
+[text 1]
+Speaker = ""
+Text = "He taught me everything about the mail war going on below the underbelly of society."
+
+[text 1]
+Speaker = ""
+Text = " "And this B*zos dude is the dark package emperor who threatens world peace?", I asked with bated breath."
+
+[text 1]
+Speaker = ""
+Text = ""No, what are you talking about?", Steve replied, obviously lying as he was scared for his life."
+
+[text 1]
+Speaker = ""
+Text = "My conscience as a former green beret, boy scout and a man who abhors the misuse of rainforest-related terms would not allow leaving evil like that unpunished."
+
+[image 1]
+Group = 1
+Item = 7
+
+[text 1]
+Speaker = ""
+Text = "I decided then and there to join Steve on his quest. He tried to be polite and decline my help, but after showing off my firepower he decided to let me join."
+
+
+[text 1]
+Speaker = "John:"
+Text = "COLONEL STEVE!"
+
+[image 1]
+Group = 1
+Item = 8
+
+[text 1]
+Speaker = "Colonel:"
+Text = "For the last time, I am not a colonel!"
+
+
+[text 1]
+Speaker = "John:"
+Text = "Colonel, I have modified my machine gun to shoot stamps and packages now! I can deliver packages even faster by just shooting them through the window!"
+
+[image 1]
+Group = 1
+Item = 9
+
+[text 1]
+Speaker = "Colonel:"
+Text = "How nice, our customers hate doorbell ringi-, wait, what?"
+
+[text 1]
+Speaker = "John:"
+Text = "These stamps are made of my special green beret mixture that put dogs to sleep. For some reason, dogs just hate my manly aura so I have to avoid them. "
+
+[image 1]
+Group = 1
+Item = 10
+
+[text 1]
+Speaker = "John:"
+Text = "All I have to cheer me up from this animalistic rejection are the raw sausages I always carry in my pockets. I need the protein."
+
+[text 1]
+Speaker = "Colonel:"
+Text = "But aren't the dogs-"
+
+[image 1]
+Group = 1
+Item = 11
+
+[text 1]
+Speaker = "John:"
+Text = "If all else fails, I can shoot packages at them. The anti-canine packaging material will knock them out in one blow, but I must retrieve the package afterwards."
+
+[text 1]
+Speaker = "Colonel:"
+Text = "IS THE PACKAGE REALLY THE ISSUE WITH THAT PLAN?!"
+
+[image 1]
+Group = 1
+Item = 12
+
+[text 1]
+Speaker = "John:"
+Text = "But I have no choice, I MUST make it to the target house shown by the arrow before the timer runs out! I must, Colonel! I must!"
+
+[text 1]
+Speaker = "Colonel:"
+Text = "Timer? Arrow?"
+
+[image 1]
+Group = 1
+Item = 13
+
+[text 1]
+Speaker = "John:"
+Text = "PACKAGE EMPEROOOOOR! YOU WILL BE DEFEATEEEEED!"
+
+[text 1]
+Speaker = "Colonel:"
+Text = "DON'T JUST START YELLING! ROOM VOICE!"
+
+[text 1]
+Speaker = "John:"
+Text = "Package emperooor! you will be defeated quietlyyy! I swear on my honor as a package pro!"
+
+[image 1]
+Group = 1
+Item = 14
+
+[text 1]
+Speaker = "John:"
+Text = "... No, I am more than just a package pro. I am so much of a packpro it loops around. Now! I am!"
+
+[image 1]
+Group = 1
+Item = 15
+
+[text 1]
+Speaker = "John:"
+Text = "PACKONTRA!"
+
+
+[Title]
